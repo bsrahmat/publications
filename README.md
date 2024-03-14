@@ -7,7 +7,7 @@
 |  03  |<a href="https://www.researchgate.net/publication/378938102">On/Off Temperature Monitoring and Control via the Internet of Things Using iTCLab Kit</a>                           | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_iTCLab03.bib) |
 |  04  |<a href="https://ieeexplore.ieee.org/document/10420130">ITCLab PID Control Tuning Using Deep Learning</a>                                                                        | [Rahmat et al. (2023)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas01.bib)    |
 
-<br></br>
+
 
 ## Scopus Publications:
 
@@ -31,7 +31,7 @@
 |  16  |<a href="https://www.engineeringletters.com/issues_v30/issue_3/EL_30_3_16.pdf">Performance of Optimized CSK, DFT, and LOT for Video-based Container Tracking System using SA</a> | [Endra,Rahmat et al. (2022)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas16.bib) |
 |  17  |<a href="https://ieeexplore.ieee.org/document/9321094">Combining of extraction butterfly image using color, texture and form features</a>                                        | [Dhian,Rahmat et al. (2020)](https://github.com/bsrahmat/itclab-01/blob/main/bib_bas17.bib) |
 
-<br></br>
+
 
 ## Other publications by the researcher:
 
