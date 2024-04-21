@@ -33,6 +33,22 @@
 
 
 
+## Books Publications:
+
+| Num  | Books Publication Articles                                                                                                                              | Download BibTex Citation                                                                        |
+| -----|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|  01  |<a href="https://github.com/bsrahmat/ebook-01">Fuzzy and Artificial Neural Networks Programming for Intelligent Control Systems (Indonesian version)</a> | [Rahmat et al. (2019)](https://github.com/bsrahmat/ebook-01/blob/main/EBook01_Fuzzy_JST.bib)    |
+|  02  |<a href="https://github.com/bsrahmat/ebook-02">Intelligent Robot Programming Using Arduino (Indonesian version)</a>                                      | [Rahmat et al. (2020)](https://github.com/bsrahmat/ebook-02/blob/main/EBook02_Kinect_Robot.bib) |
+|  03  |<a href="https://github.com/bsrahmat/ebook-03">Deep Learning Programming Using Python (Indonesian version)</a>                                           | [Rahmat et al. (2021)](https://github.com/bsrahmat/ebook-03/blob/main/EBook03_DL.bib)           |
+|  04  |<a href="https://github.com/bsrahmat/ebook-04">MQTT Brokers as Supporting IoT Services (Indonesian version)</a>                                          | [Rahmat et al. (2022)](https://github.com/bsrahmat/ebook-04/blob/main/EBook04_MQTT_Broker.bib)  |
+|  05  |<a href="https://github.com/bsrahmat/ebook-05">Integrated Web-Based E-Finance System (Indonesian version)</a>                                            | [Rahmat et al. (2023)](https://github.com/bsrahmat/ebook-05/blob/main/EBook05_EFinance.bib)     |
+|  06  |<a href="https://github.com/bsrahmat/ebook-06">Asset Management Information System (Indonesian version)</a>                                              | [Rahmat et al. (2023)](https://github.com/bsrahmat/ebook-06/blob/main/EBook06_Simaset.bib)      |
+|  07  |<a href="https://github.com/bsrahmat/ebook-07">Village Management Information System (Indonesian version)</a>                                            | [Rahmat et al. (2023)](https://github.com/bsrahmat/ebook-07/blob/main/EBook07_Simdes.bib)       |
+|  08  |<a href="https://github.com/bsrahmat/ebook-08">Retribution Management Information System (Indonesian version)</a>                                        | [Rahmat et al. (2023)](https://github.com/bsrahmat/ebook-08/blob/main/EBook08_Simretribusi.bib) |
+|  09  |<a href="https://github.com/bsrahmat/ebook-09">Gender Management Information System (Indonesian version)</a>                                             | [Rahmat et al. (2023)](https://github.com/bsrahmat/ebook-09/blob/main/EBook09_Sagada.bib)       |
+
+
+
 ## Other publications by the researcher:
 
 https://fitri.academia.edu/BasukiRahmat
